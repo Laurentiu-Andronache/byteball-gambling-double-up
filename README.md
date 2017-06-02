@@ -1,2 +1,2 @@
-# byteball-gambling-double-up
-Byteball Double Up (gambling)
+# Byteball Double Up (gambling game)
+

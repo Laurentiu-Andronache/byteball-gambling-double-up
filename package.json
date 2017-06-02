@@ -1,0 +1,30 @@
+{
+  "name": "byteball-gambling-double-up",
+  "description": "Byteball Double Up (gambling game)",
+  "author": "Laurențiu Andronache <laurentiu.andronache@trailung.ro> (https://gamblers-united.com)",
+  "version": "0.0.1",
+  "main": "start.js",
+  "keywords": [
+    "byteball",
+    "gambling",
+    "chatbot",
+    "game",
+    "double up"
+  ],
+  "license": "MIT",
+  "repository": {
+    "url": "git://github.com/Laurentiu-Andronache/byteball-gambling-double-up.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/Laurentiu-Andronache/byteball-gambling-double-up/issues"
+  },
+  "browser": {
+    "request": "browser-request",
+    "secp256k1": "secp256k1/js"
+  },
+  "dependencies": {
+    "byteballcore": "^0.2.33",
+    "headless-byteball": "git+https://github.com/byteball/headless-byteball.git"
+  }
+}
